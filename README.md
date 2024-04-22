@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Sobre el Proyecto
 
 Este proyecto de Python se centra en la limpieza de un dataset y preparación para el entrenamiento de un modelo de Machine Learning.
 
