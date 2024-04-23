@@ -1,1 +1,4 @@
-./data/encuesta-anual-hogares.csv
+data/*
+!data/model.pickle
+
+P.D.*
